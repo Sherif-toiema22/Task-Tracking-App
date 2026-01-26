@@ -1,4 +1,5 @@
-package com.devtiro.tasks.domain.entities;
+package com.sherif.task.entities;//import com.sherif.task.entities.TaskList;
+
 
 import jakarta.persistence.*;
 
