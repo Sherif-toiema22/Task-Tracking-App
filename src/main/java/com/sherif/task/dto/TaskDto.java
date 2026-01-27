@@ -1,7 +1,9 @@
-package com.devtiro.tasks.domain.dto;
+package com.sherif.task.dto;
 
-import com.devtiro.tasks.domain.entities.TaskPriority;
-import com.devtiro.tasks.domain.entities.TaskStatus;
+
+
+import com.sherif.task.entities.TaskPriority;
+import com.sherif.task.entities.TaskStatus;
 
 import java.time.LocalDateTime;
 import java.util.UUID;

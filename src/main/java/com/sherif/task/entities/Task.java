@@ -1,5 +1,4 @@
-package com.sherif.task.entities;//import com.sherif.task.entities.TaskList;
-
+package com.sherif.task.entities;
 
 import jakarta.persistence.*;
 
